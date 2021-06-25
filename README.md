@@ -1,16 +1,45 @@
-### Hi there 👋
+<h2> Hey there! I'm Retq. This is my new account ! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<!--
-**retqdev/retqdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+<h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 &nbsp; I’m currently learning pretty much everything.
+- 🤔 &nbsp; Exploring new technologies and developing some random stuff and making some hacks.
+- 🎓 &nbsp; Studying Cyber Security and ethical hacking.
+- 💼 &nbsp; Back-end and front-end web developer.
+- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.
+- ✍️ &nbsp; Watching YouTube and learning IT stuff, YouTube, working out and going out a lot.
+- ☕ &nbsp; I believe, listening to music can be the ultimate solution for any stress. 
+
+</p>
+
+<br>
+
+<h3>🥋 Stats</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=retqdev&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
+
+
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=retqdev&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+&nbsp; <a href="https://twitter.com/retqdev" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="70" /></a>
+</p>
+
+<h3> 👀 Views </h3>
+
+<p align="center"> 
+  <br>  <br>
+  <img src="https://profile-counter.glitch.me/retqdev/count.svg"/>
+</p>
+
+<br>
+
+<h3>Thanks for stopping by !</h3>
+
+<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="250">
