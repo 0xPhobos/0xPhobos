@@ -5,7 +5,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning pretty much everything.
+- 🔭 &nbsp; I’m currently learning Front-End & Back-End languages.
 - 🤔 &nbsp; Exploring new technologies and developing some random stuff and making some hacks.
 - 🎓 &nbsp; Studying Cyber Security and ethical hacking.
 - 💼 &nbsp; Back-end and front-end web developer.
