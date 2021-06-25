@@ -24,7 +24,7 @@
 
 
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=retqdev&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
 
 <h3> 🤝🏻 Connect with Me </h3>
 
