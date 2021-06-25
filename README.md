@@ -12,6 +12,7 @@
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.
 - ✍️ &nbsp; Watching YouTube and learning IT stuff, YouTube, working out and going out a lot.
 - ☕ &nbsp; I believe, listening to music can be the ultimate solution for any stress. 
+- 💻 &nbsp; I am currently working on my website !
 
 </p>
 
