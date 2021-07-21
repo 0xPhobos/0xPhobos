@@ -15,7 +15,7 @@
 - ☕ &nbsp; I believe, listening to music can be the ultimate solution for any stress. 
 - 💻 &nbsp; I am mainly learning ASM and C.
 
- <img align='right' src="https://discord.c99.nl/widget/theme-3/719551285560344637.png" width="300">
+ <img align='right' src="https://discord.c99.nl/widget/theme-2/719551285560344637.png" width="300">
 
 </p>
 
