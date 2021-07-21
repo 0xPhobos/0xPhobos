@@ -43,5 +43,3 @@
 <br>
 
 <h3>Thanks for stopping by !</h3>
-
-<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="250">
