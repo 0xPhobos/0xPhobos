@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Retq, also known as 9s ! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Retq, also known as 9s or i2 ! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -6,7 +6,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Assembly & C++. I might want to explore more languages.
+- 🔭 &nbsp; I’m currently learning Assembly. I might want to explore more languages.
 - 🤔 &nbsp; Exploring new technologies and developing some random stuff and making some hacks.
 - 🎓 &nbsp; Studying Cyber Security and ethical hacking.
 - 💼 &nbsp; Back-end and front-end web developer.
