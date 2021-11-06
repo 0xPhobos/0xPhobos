@@ -11,7 +11,7 @@
 - 🎓 &nbsp; Studying Cyber Security and ethical hacking.
 - 💼 &nbsp; Back-end and front-end web developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.
-- ✍️ &nbsp; Watching YouTube and learning IT stuff, YouTube, working out and going out a lot.
+- ✍️ &nbsp; Watching YouTube and learning IT stuff, sport and going out a lot.
 - ☕ &nbsp; I believe, listening to music can be the ultimate solution for any stress. 
 - 💻 &nbsp; I am mainly learning Assembly
 
