@@ -21,11 +21,11 @@
 
 <h3>🥋 Stats</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=retqdev&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vita1337&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
 
 
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=retqdev&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vita1337&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
 
 
 
@@ -33,7 +33,7 @@
 
 <p align="center"> 
   <br>  <br>
-  <img src="https://profile-counter.glitch.me/retqdev/count.svg"/>
+  <img src="https://profile-counter.glitch.me/vita1337/count.svg"/>
 </p>
 
 <br>
