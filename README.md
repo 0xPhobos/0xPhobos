@@ -21,11 +21,11 @@
 
 <h3>🥋 Stats</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=downl33t&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
+<img src="https://github-readme-stats.vercel.app/api?username=i2intel&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
 
 
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=downl33t&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=i2intel&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
 
 
 
@@ -33,7 +33,7 @@
 
 <p align="center"> 
   <br>  <br>
-  <img src="https://profile-counter.glitch.me/vita1337/count.svg"/>
+  <img src="https://profile-counter.glitch.me/i2intel/count.svg"/>
 </p>
 
 <br>
