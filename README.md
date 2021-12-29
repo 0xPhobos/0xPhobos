@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Down, also known as Vita or d0wn or 9s or i2 or 30z ! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Intel, also known as Vita or d0wn or 9s or i2 or 30z ! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
