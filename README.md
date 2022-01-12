@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Intel, also known as Vita or d0wn or 9s or i2 or 30z ! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there, I'm Charon XII, also known as Vita, Vex & Intel. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -21,11 +21,11 @@
 
 <h3>🥋 Stats</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=i2intel&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vexxii&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
 
 
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=i2intel&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vexxii&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
 
 
 
@@ -33,7 +33,7 @@
 
 <p align="center"> 
   <br>  <br>
-  <img src="https://profile-counter.glitch.me/i2intel/count.svg"/>
+  <img src="https://profile-counter.glitch.me/vexxii/count.svg"/>
 </p>
 
 <br>
