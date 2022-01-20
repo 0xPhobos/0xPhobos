@@ -29,6 +29,10 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=0xphobos&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
 
 
+#### Contribution Graph
+
+[![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=0xphobos&theme=react-dark)](https://github.com/MrBlueBird2/github-readme-activity-graph)
+
 
 <h3> 👀 Views </h3>
 
