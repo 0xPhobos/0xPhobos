@@ -29,6 +29,11 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=0xphobos&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
 
 
+
+<p align="center">
+    <a href="https://github.com/0xPhobos/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Phobos's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=0xPhobos&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+
 #### Contribution Graph
 
 [![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=0xphobos&theme=react-dark)](https://github.com/MrBlueBird2/github-readme-activity-graph)
