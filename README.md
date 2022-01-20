@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Phobos</a>'s Profile</h1>
-</p> <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+</p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
