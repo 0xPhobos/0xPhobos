@@ -22,11 +22,11 @@
 
 <h3>🥋 Stats</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=0xphobos&count_private=true&show_icons=true&theme=black-ice" alt="GitHub Status"/>
+<img src="https://github-readme-stats.vercel.app/api?username=0xphobos&count_private=true&show_icons=true&theme=react" alt="GitHub Status"/>
 
 
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=0xphobos&show_icons=true&layout=compact&theme=black-ice" alt="Most Used Languages">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=0xphobos&show_icons=true&layout=compact&theme=react" alt="Most Used Languages">
 
 
 
