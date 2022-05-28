@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phobos</h1>
 <h3 align="center">A cybersecurity, coding and hacking passionate</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=retq&label=Profile%20views&color=0e75b6&style=flat" alt="0xPhobos" /> </p>
-
 - 🔭 I’m currently working on **nothing for now**
 
 - 🌱 I’m currently learning **more stuff in Assembly x86 and x64**
